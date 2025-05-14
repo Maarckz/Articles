@@ -23,7 +23,6 @@
 
 Para colaborações acadêmicas, bancas ou discussões técnicas, entre em contato:
 
-- 📧 Email: seuemail@exemplo.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcus-dealmeida)
 - 🐙 [GitHub](https://github.com/Maarckz)
 
